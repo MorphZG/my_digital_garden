@@ -62,9 +62,9 @@ DQL query is created inside a codeblock that uses `dataview` as a type. It suppo
 >  | File                                                                                | type      | url  |
 > | ----------------------------------------------------------------------------------- | --------- | ---- |
 > | [[start here\|start here]]                                                       | index     | \-   |
-> | [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]         | blog_post | none |
-> | [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]] | blog_post | \-   |
 > | [[04_Expressions/life stories/who am i for real\|who am i for real]]             | blog_post | none |
+> | [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]] | blog_post | \-   |
+> | [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]         | blog_post | none |
 > 
 { .block-language-dataview}
 
