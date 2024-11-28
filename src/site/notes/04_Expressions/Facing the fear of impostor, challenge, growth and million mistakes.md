@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/"}
+{"dg-publish":true,"permalink":"/04-expressions/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/","title":"Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes"}
 ---
 
 
