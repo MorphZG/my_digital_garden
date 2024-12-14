@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/000-workflow/","title":"My Obsidian Workflow","tags":["index","obsidian"]}
+{"dg-publish":true,"tags":["index","obsidian"],"title":"My Obsidian Workflow","type":"reference","URL":null,"permalink":"/000-workflow/","dgPassFrontmatter":true}
 ---
 
 
@@ -28,7 +28,7 @@ Even the longest journey starts with a single step. I was searching for a way to
 
 - **03_Literature_notes**
 	- Literature doesn't have to be a physical book, it can be a digital article or a blog post. While `01_Reference` directory have very practical notes, literature notes are wider range of ideas and personal thoughts about different concepts. When taking literature notes be mindful of a structure but also take note of important metadata.
-    - Read more about [[00_Fleeting_inbox/literature notes structure\|effective literature notes]]
+	- Read more about [[00_Fleeting_inbox/literature notes structure\|effective literature notes]]
 
 - **04_Expressions**
 	- After collecting enough knowledge and different ideas, when there is enough to encapsulate written words into my own expressions, I will share them online. This is the directory where everything comes together.
