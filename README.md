@@ -11,3 +11,8 @@ With all that said it is almost crucial that process of deployment, publish and 
 ## Obsidian plugin: "Digital Garden"
 
 If you open Obsidian settings and browse through community plugins, look for [Digital Garden](https://dg-docs.ole.dev/) plugin. I recommend you to copy your private Obsidian vault into another directory and keep the separate vault that you would like to publish. All you need is a [Github](https://www.github.com) account and free [Vercel](https://vercel.com/) account where the plugin will publish your notes. Just follow setup instructions [dg-docs.ole.dev/documentation](https://dg-docs.ole.dev/) and you are ready in less than 15 minutes.
+
+### Additional reading
+
+The plugin uses the eleventy.js, static site generator. After you deploy everything by following the plugin documentation i would definitely recommend learning more about **eleventy.js**.
+  - Link to official documentation: [11ty.dec/documentation](https://www.11ty.dev/)
