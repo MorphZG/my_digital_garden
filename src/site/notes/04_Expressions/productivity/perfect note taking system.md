@@ -3,7 +3,7 @@
 ---
 
 
-![_assets/workflow-diagram.png](/img/user/_assets/workflow-diagram.png)
+![[_assets/workflow-diagram.png\|_assets/workflow-diagram.png]]
 
 # Perfect note taking system
 
