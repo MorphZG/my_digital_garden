@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["employment"],"title":"Job interview","type":"reference","URL":null,"permalink":"/01-reference/employment/job-interview-preparation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/employment/job-interview-preparation/","title":"Job interview","tags":["employment"]}
 ---
 
 

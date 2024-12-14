@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["mazda","assets","vehicle"],"title":"Mazda 3","type":null,"URL":"https://www.neostar.com/hr/mazda-mazda3-d116-3","permalink":"/05-archive/my-mazda/personal-vehicle/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/05-archive/my-mazda/personal-vehicle/","title":"Mazda 3","tags":["mazda","assets","vehicle"]}
 ---
 
 

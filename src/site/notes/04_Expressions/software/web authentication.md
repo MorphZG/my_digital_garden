@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["security","network","javascript"],"title":"Beyond the login screen: Safeguarding your web application","type":"blog_post","URL":null,"permalink":"/04-expressions/software/web-authentication/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-expressions/software/web-authentication/","title":"Beyond the login screen: Safeguarding your web application","tags":["security","network","javascript"]}
 ---
 
 

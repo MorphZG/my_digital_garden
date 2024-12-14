@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":[],"title":"Directory structure","type":null,"URL":null,"permalink":"/02-ideas-and-projects/projects/work-schedule-app/directory-structure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/work-schedule-app/directory-structure/","title":"Directory structure"}
 ---
 
 

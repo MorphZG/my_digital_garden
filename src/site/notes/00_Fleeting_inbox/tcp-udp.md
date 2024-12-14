@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["network"],"title":"TCP-UDP","type":"knowledge","URL":null,"permalink":"/00-fleeting-inbox/tcp-udp/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/tcp-udp/","title":"TCP-UDP","tags":["network"]}
 ---
 
 

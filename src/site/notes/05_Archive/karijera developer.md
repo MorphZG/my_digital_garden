@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":["magazine"],"tags":["employment","coding"],"title":"Karijera developer","type":"literature_note","URL":"https://www.bug.hr/casopis/","permalink":"/05-archive/karijera-developer/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/05-archive/karijera-developer/","title":"Karijera developer","tags":["employment","coding"]}
 ---
 
 

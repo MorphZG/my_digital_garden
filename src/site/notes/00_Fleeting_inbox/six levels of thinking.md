@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["reading","productivity"],"title":"Six levels of thinking","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/six-levels-of-thinking/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/six-levels-of-thinking/","title":"Six levels of thinking","tags":["reading","productivity"]}
 ---
 
 

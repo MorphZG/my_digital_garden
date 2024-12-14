@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["python","coding","virtualenv"],"title":"Python virtual environments","type":"reference","URL":null,"permalink":"/01-reference/software/virtualenvs/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/software/virtualenvs/","title":"Python virtual environments","tags":["python","coding","virtualenv"]}
 ---
 
 

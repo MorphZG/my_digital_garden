@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["book","reading"],"title":"Reading levels","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/reading-books/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/reading-books/","title":"Reading levels","tags":["book","reading"]}
 ---
 
 

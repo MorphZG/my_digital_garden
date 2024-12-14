@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["personal","career"],"title":"","type":"blog_post","URL":"none","permalink":"/04-expressions/life-stories/who-am-i-for-real/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-expressions/life-stories/who-am-i-for-real/","tags":["personal","career"]}
 ---
 
 

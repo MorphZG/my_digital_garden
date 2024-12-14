@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["network"],"title":"The http and the web","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/http-and-the-web/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/http-and-the-web/","title":"The http and the web","tags":["network"]}
 ---
 
 

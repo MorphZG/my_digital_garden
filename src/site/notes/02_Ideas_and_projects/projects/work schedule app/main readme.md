@@ -1,5 +1,5 @@
 ---
-{"date":"2024-10-30","dg-publish":true,"tags":["webdev","coding","project"],"title":"Work schedule app","type":"project","URL":"https://github.com/MorphZG/work_schedule_app.git","permalink":"/02-ideas-and-projects/projects/work-schedule-app/main-readme/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/work-schedule-app/main-readme/","title":"Work schedule app","tags":["webdev","coding","project"]}
 ---
 
 

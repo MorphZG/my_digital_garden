@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["obsidian","index"],"title":"Effective literature notes","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/literature-notes-structure/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/literature-notes-structure/","title":"Effective literature notes","tags":["obsidian","index"]}
 ---
 
 

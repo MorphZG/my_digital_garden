@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":[],"title":"Model, View, Controller","type":null,"URL":null,"permalink":"/02-ideas-and-projects/projects/work-schedule-app/model-view-controller/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/work-schedule-app/model-view-controller/","title":"Model, View, Controller"}
 ---
 
 

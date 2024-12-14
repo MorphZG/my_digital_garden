@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["javascript","coding","webdev"],"title":"Asynchronous Javascript","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/asynchronous-javascript/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/asynchronous-javascript/","title":"Asynchronous Javascript","tags":["javascript","coding","webdev"]}
 ---
 
 

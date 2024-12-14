@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["dotfiles","linux","utility"],"title":"Understanding stow","type":"reference","URL":null,"permalink":"/01-reference/software/stow-the-dotfiles/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/software/stow-the-dotfiles/","title":"Understanding stow","tags":["dotfiles","linux","utility"]}
 ---
 
 

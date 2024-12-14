@@ -1,5 +1,5 @@
 ---
-{"author":"David Flanagan","date":"2024-10-16","dg-publish":true,"source":["book"],"tags":["webdev","javascript"],"title":"Javascript - The definitive guide","type":"literature_note","URL":"https://www.goodreads.com/book/show/61157620-javascript","permalink":"/03-literature-notes/java-script-the-definitive-guide/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03-literature-notes/java-script-the-definitive-guide/","title":"Javascript - The definitive guide","tags":["webdev","javascript"]}
 ---
 
 

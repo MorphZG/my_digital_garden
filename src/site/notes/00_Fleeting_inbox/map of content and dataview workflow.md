@@ -1,5 +1,5 @@
 ---
-{"author":"https://www.reddit.com/user/emptyharddrive/","date":null,"dg-publish":true,"source":"web","tags":["moc","dataview","productivity"],"title":"How to Use Maps of Content (MOCs) and Dataview to Manage Your Vault in Obsidian","type":"idea","URL":"https://github.com/seqis/ObsidianMOC/blob/main/README.md","permalink":"/00-fleeting-inbox/map-of-content-and-dataview-workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/map-of-content-and-dataview-workflow/","title":"How to Use Maps of Content (MOCs) and Dataview to Manage Your Vault in Obsidian","tags":["moc","dataview","productivity"]}
 ---
 
 

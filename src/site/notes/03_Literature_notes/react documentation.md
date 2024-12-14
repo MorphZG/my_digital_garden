@@ -1,5 +1,5 @@
 ---
-{"date":"2024-12-14","dg-publish":true,"source":["official_documentation"],"tags":["webdev","react","technical"],"title":"React documentation","type":"literature_note","URL":"https://react.dev/learn","permalink":"/03-literature-notes/react-documentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03-literature-notes/react-documentation/","title":"React documentation","tags":["webdev","react","technical"]}
 ---
 
 

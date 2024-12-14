@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["employment","webdev","freelancing"],"title":"Beginner's guide to freelancing","type":"baby_note","URL":"https://dev.to/llxd/beginners-guide-to-freelancing-3m5i","permalink":"/00-fleeting-inbox/freelancing/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/freelancing/","title":"Beginner's guide to freelancing","tags":["employment","webdev","freelancing"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["github","readme"],"title":"Zoran Topic","type":"readme","URL":"https://www.github.com/morphzg/morphzg","permalink":"/02-ideas-and-projects/projects/github-readme/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/github-readme/","title":"Zoran Topic","tags":["github","readme"]}
 ---
 
 

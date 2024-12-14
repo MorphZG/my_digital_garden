@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":[],"title":"Controllers","type":null,"URL":null,"permalink":"/00-fleeting-inbox/controllers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/controllers/","title":"Controllers"}
 ---
 
 

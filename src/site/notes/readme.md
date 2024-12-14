@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["index","obsidian"],"title":"Obsidian notes","type":"index","URL":null,"permalink":"/readme/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/readme/","title":"Obsidian notes","tags":["index","obsidian"]}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"author":"Peter Hollins","date":null,"dg-publish":true,"source":"book","tags":["discipline","self-help"],"title":"The Science of Self-Discipline","type":"literature_note","URL":"https://www.goodreads.com/book/show/36452903-the-science-of-self-discipline","permalink":"/03-literature-notes/the-science-of-self-discipline/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03-literature-notes/the-science-of-self-discipline/","title":"The Science of Self-Discipline","tags":["discipline","self-help"]}
 ---
 
 

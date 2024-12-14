@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["blog","story"],"title":"Singularity","type":"idea","URL":null,"permalink":"/02-ideas-and-projects/ideas/singularity/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/ideas/singularity/","title":"Singularity","tags":["blog","story"]}
 ---
 
 

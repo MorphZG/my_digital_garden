@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["network"],"title":"OSI Model","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/osi-model-layers/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/osi-model-layers/","title":"OSI Model","tags":["network"]}
 ---
 
 

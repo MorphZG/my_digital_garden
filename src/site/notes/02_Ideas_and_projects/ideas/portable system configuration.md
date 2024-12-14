@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["dotfiles","linux","workflow"],"title":"Create and recreate portable system configuration","type":"idea","URL":null,"permalink":"/02-ideas-and-projects/ideas/portable-system-configuration/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/ideas/portable-system-configuration/","title":"Create and recreate portable system configuration","tags":["dotfiles","linux","workflow"]}
 ---
 
 

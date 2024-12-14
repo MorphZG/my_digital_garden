@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["python","coding"],"title":"Requirements file","type":"reference","URL":null,"permalink":"/01-reference/software/requirements-file/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/software/requirements-file/","title":"Requirements file","tags":["python","coding"]}
 ---
 
 

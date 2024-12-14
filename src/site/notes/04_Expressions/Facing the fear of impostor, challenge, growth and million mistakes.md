@@ -1,5 +1,5 @@
 ---
-{"date":"2024-11-17","dg-publish":true,"source":null,"tags":["webdev","writing","story"],"title":"Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes","type":"blog_post","URL":"https://dev.to/morphzg/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes-fi1","permalink":"/04-expressions/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/04-expressions/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/","title":"Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes","tags":["webdev","writing","story"]}
 ---
 
 

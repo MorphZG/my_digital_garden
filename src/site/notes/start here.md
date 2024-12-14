@@ -1,5 +1,5 @@
 ---
-{"date":"2024-11-27","dg-home":true,"dg-publish":true,"source":null,"tags":["personal","writing","gardenEntry","gardenEntry"],"title":"Welcome my friend","type":"index","URL":null,"permalink":"/start-here/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing","gardenEntry"]}
 ---
 
 

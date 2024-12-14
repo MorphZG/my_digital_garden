@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["project","programming","webdev"],"title":"Personal web","type":"portfolio_project","URL":null,"permalink":"/05-archive/wiki-web-app/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/05-archive/wiki-web-app/","title":"Personal web","tags":["project","programming","webdev"]}
 ---
 
 

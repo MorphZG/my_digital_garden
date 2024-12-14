@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["git","workflow"],"title":"Git workflow","type":"reference","URL":null,"permalink":"/01-reference/software/git-workflow/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/software/git-workflow/","title":"Git workflow","tags":["git","workflow"]}
 ---
 
 

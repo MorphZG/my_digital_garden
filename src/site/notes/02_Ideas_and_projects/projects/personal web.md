@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["webdev","coding","project"],"title":"Personal web","type":"project","URL":null,"permalink":"/02-ideas-and-projects/projects/personal-web/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/personal-web/","title":"Personal web","tags":["webdev","coding","project"]}
 ---
 
 

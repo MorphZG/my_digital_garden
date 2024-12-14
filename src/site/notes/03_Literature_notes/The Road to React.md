@@ -1,5 +1,5 @@
 ---
-{"author":"Robin Wieruch","date":2023,"dg-publish":true,"source":["book"],"tags":["webdev","react"],"title":"The Road To React","type":"literature_note","URL":"https://www.roadtoreact.com/","permalink":"/03-literature-notes/the-road-to-react/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/03-literature-notes/the-road-to-react/","title":"The Road To React","tags":["webdev","react"]}
 ---
 
 

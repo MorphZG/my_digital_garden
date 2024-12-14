@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["webdev","coding"],"title":"Single page application","type":"baby_note","URL":null,"permalink":"/00-fleeting-inbox/single-page-application/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/single-page-application/","title":"Single page application","tags":["webdev","coding"]}
 ---
 
 

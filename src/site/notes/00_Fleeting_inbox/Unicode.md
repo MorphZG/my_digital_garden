@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"source":"web","tags":[],"title":"Unicode","type":"reference","URL":"https://symbl.cc/en/unicode-table/","permalink":"/00-fleeting-inbox/unicode/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/unicode/","title":"Unicode"}
 ---
 
 

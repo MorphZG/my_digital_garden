@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":["linux","utility"],"title":"Fuzzy Finder FZF","type":"reference","URL":null,"permalink":"/01-reference/software/fzf/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/software/fzf/","title":"Fuzzy Finder FZF","tags":["linux","utility"]}
 ---
 
 

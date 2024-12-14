@@ -1,5 +1,5 @@
 ---
-{"date":"2024-11-06","dg-publish":true,"source":["web"],"tags":["linux","coding","configuration"],"title":"Git and GitHub Reference Guide","type":"reference","URL":null,"permalink":"/01-reference/programming/git-reference/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/01-reference/programming/git-reference/","title":"Git and GitHub Reference Guide","tags":["linux","coding","configuration"]}
 ---
 
 

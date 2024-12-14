@@ -1,5 +1,5 @@
 ---
-{"date":null,"dg-publish":true,"source":null,"tags":[],"title":"Quotes","type":null,"URL":null,"permalink":"/00-fleeting-inbox/quotes/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/quotes/","title":"Quotes"}
 ---
 
 
