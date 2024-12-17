@@ -3,7 +3,7 @@
 ---
 
 
-![[_assets/note-taking.jpg\|_assets/note-taking.jpg]]
+![_assets/note-taking.jpg](/img/user/_assets/note-taking.jpg)
 
 # Note Taking as a Learning Tool
 

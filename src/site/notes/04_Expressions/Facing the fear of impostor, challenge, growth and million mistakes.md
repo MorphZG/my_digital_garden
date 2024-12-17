@@ -3,7 +3,7 @@
 ---
 
 
-![[_assets/impostor_syndrome.webp\|_assets/impostor_syndrome.webp]]
+![_assets/impostor_syndrome.webp](/img/user/_assets/impostor_syndrome.webp)
 
 # Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes
 
