@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing","gardenEntry"]}
 ---
 
 
