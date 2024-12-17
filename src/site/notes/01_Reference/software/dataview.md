@@ -59,12 +59,12 @@ DQL query is created inside a codeblock that uses `dataview` as a type. It suppo
 >[!example]- Click to show more
 >The following example is a `TABLE` query, showing `type` and `url` property values for all files with `#personal` tag. Switch to edit mode to preview the syntax.
 >
->  | File                                                                                | type      | url  |
-> | ----------------------------------------------------------------------------------- | --------- | ---- |
-> | [[04_Expressions/life stories/who am i for real\|who am i for real]]             | blog_post | none |
-> | [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]] | blog_post | \-   |
-> | [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]         | blog_post | none |
-> | [[start here\|start here]]                                                       | index     | \-   |
+>  | File                                                                                | type      | url                              |
+> | ----------------------------------------------------------------------------------- | --------- | -------------------------------- |
+> | [[04_Expressions/life stories/who am i for real\|who am i for real]]             | blog_post | none                             |
+> | [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]] | blog_post | \-                               |
+> | [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]         | blog_post | none                             |
+> | [[start here\|start here]]                                                       | index     | https://www.zoran-topic.from.hr/ |
 > 
 { .block-language-dataview}
 
