@@ -28,7 +28,7 @@ Even the longest journey starts with a single step. I was searching for a way to
 
 - **03_Literature_notes**
 	- Literature doesn't have to be a physical book, it can be a digital article or a blog post. While `01_Reference` directory have very practical notes, literature notes are wider range of ideas and personal thoughts about different concepts. When taking literature notes be mindful of a structure but also take note of important metadata.
-	- Read more about [[00_Fleeting_inbox/literature notes structure\|effective literature notes]]
+	- Read more about [[00_Fleeting_inbox/literature notes - proposal\|Literature notes - proposal]]
 
 - **04_Expressions**
 	- After collecting enough knowledge and different ideas, when there is enough to encapsulate written words into my own expressions, I will share them online. This is the directory where everything comes together.
@@ -43,11 +43,11 @@ There are two types of properties i will use, essential and optional. Essential 
 
 Create the [[_dataview_database/index\|Dataview index]] to query the list of available frontmatter properties. It is important to review the index file with key-value pairs that are used often and don't create new key-value pairs if it is not necessary. If i already have `source: web` there is no need to create additional `source: article` and `source: blog`. If i already have `URL` property there is no need to create additional `link` property. Not going to wide will help later when you need to search for information.
 
->[!tip]- Essential properties
->- **tags**: List datatype. With not more than 3 tags. It is crucial to minimise number of tags to make them more specific.
->- **type**: String datatype, double quoted. Indicates the type of a note with only one input value set from the currently available values listed under [[000_Workflow#Type property\|#Type property]]
+>[!tip]+ Essential properties
+>- **tags**: List datatype. With not more than 3 tags. It is critical to minimise number of tags and keep them specific. Tags are topic or content related
+>- **type**: String datatype. Indicates the type of a note. There must be only one type value. Type is not related to content or topic but more on the purpose or use case for a note. Look for available type values listed under [[000_Workflow#Type property\|#Type property]]
 
->[!tip]- Optional properties
+>[!tip]+ Optional properties
 >- **date**: Date datatype.
 >- **source**. String datatype, source for reference notes
 >- **author**: String datatype, author of source
@@ -60,33 +60,30 @@ Create the [[_dataview_database/index\|Dataview index]] to query the list of ava
 
 It would be a mess going to wide with different types of notes. It will for sure loose the purpose. When i see a need to expand the list of available values i will for sure add more.
 
-### Current type values
-
->TODO: List all available values with short explanation for each
+<h3><span>Current type values</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">11</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>reference</span></td><td>19</td></tr><tr><td><span>baby_note</span></td><td>11</td></tr><tr><td><span>idea</span></td><td>3</td></tr><tr><td><span>knowledge</span></td><td>1</td></tr><tr><td><span>readme</span></td><td>1</td></tr><tr><td><span>project</span></td><td>2</td></tr><tr><td><span>literature_note</span></td><td>5</td></tr><tr><td><span>blog_post</span></td><td>7</td></tr><tr><td><span>portfolio_project</span></td><td>1</td></tr><tr><td><span>index</span></td><td>7</td></tr><tr><td><span>template</span></td><td>2</td></tr></tbody></table></div>
 
 ## Plugins
 
 - **Dataview**
-	- Treat your Obsidian Vault as a database which you can query. Create dynamic views of your notes. For instance, you can create a table of all notes tagged with `#project` or a list of all `#reference` notes with a specific tag. It provides a JavaScript API and pipeline-based query language for filtering, sorting, and extracting data from Markdown pages. More info can be found at [GitHub](https://github.com/blacksmithgu/obsidian-dataview).
+	- Treat your Obsidian Vault as a database which you can query. Create dynamic views of your notes. For instance, you can create a table of all notes tagged with `#project` or a list of all `#reference` notes with a specific tag. It provides a JavaScript API and pipeline-based query language for filtering, sorting, and extracting data from Markdown pages. More info can be found at [GitHub repository](https://github.com/blacksmithgu/obsidian-dataview).
 
 - **Templater**
-	- Templater is a template language that lets you insert variables and function results into your notes. It also lets you execute JavaScript code manipulating those variables and functions. With Templater, you can create powerful templates to automate manual tasks. Documentation is available at [silentvoid13.com](https://silentvoid13.github.io/Templater/).
+	- Templater is a template language that lets you insert variables and function results into your notes. It also lets you execute JavaScript code manipulating those variables and functions. With Templater, you can create powerful templates to automate manual tasks. Documentation is available at [silentvoid13.com](https://silentvoid13.github.io/Templater/). To execute templater code and show output, use the following command: `Templater: Replace templates in the active file` or by shortcut `alt + R`
 
 - **Excalidraw**
 	- The Obsidian-Excalidraw plugin integrates Excalidraw, a feature-rich sketching tool, into Obsidian. You can store and edit Excalidraw files in your vault, embed drawings into your documents, and link to documents and other drawings. For a showcase of Excalidraw features, browse the [GitHub repository](https://github.com/excalidraw/excalidraw).
 
 ## Linking Notes
 
-I'm still looking for a well-structured way to link notes. Options include:
-- Footnotes
-- Tags and front matter
-- Inline styled wiki links
+Most, if not all my notes have listed additional reading materials or references at the bottom. Since note systems have a tendency to grow over time it would be wise to review them on a regular basis and include both inbound and outbound links to new notes or reference material if it becomes available.
 
-Each method has pros and cons. Currently, the most organised approach seems to be a combination of front matter tags and linking everything at the bottom as a footnote or reference section.
+Large number of notes can be time consuming to review. Try using `dataview` queries as an [[_dataview_database/index\|index page]] and try to build a [[02_Ideas_and_projects/ideas/maps of content\|maps of content]] that will help with establishing connections between related topics.
 
 ## References
 
-[[04_Expressions/productivity/my note on notetaking\|my note on notetaking]] - personal note
-[[_dataview_database/index\|index page]] - personal note
-[[01_Reference/productivity/Building a second brain\|Building a second brain]] - book reference
-[[01_Reference/productivity/How to take smart notes\|How to take smart notes]] - book reference
+- [[_dataview_database/index\|index page]] - personal note
+- [[00_Fleeting_inbox/literature notes - proposal\|literature notes structure]] - personal note
+- [[02_Ideas_and_projects/ideas/maps of content\|maps of content]] - personal note
+- [[04_Expressions/productivity/my note on notetaking\|my note on notetaking]] - personal note
+- [[01_Reference/productivity/Building a second brain\|Building a second brain]] - book reference
+- [[01_Reference/productivity/How to take smart notes\|How to take smart notes]] - book reference
