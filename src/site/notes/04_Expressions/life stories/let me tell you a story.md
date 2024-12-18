@@ -3,7 +3,7 @@
 ---
 
 
-![[_assets/story.jpeg\|_assets/story.jpeg]]
+![_assets/let_me_tell_a_story.jpeg](/img/user/_assets/let_me_tell_a_story.jpeg)
 
 # Let me tell you a story
 

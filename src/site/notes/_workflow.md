@@ -54,6 +54,7 @@ Create the [[_dataview_database/index\|Dataview index]] to query the list of ava
 >- **title**: String datatype, title of source
 >- **review**: Boolean datatype, mark the note as a review candidate
 >- **URL**: String datatype, link to source
+>- **completed**: Boolean datatype, mark the completion status
 
 ## Type property
 
@@ -61,7 +62,7 @@ Create the [[_dataview_database/index\|Dataview index]] to query the list of ava
 
 It would be a mess going to wide with different types of notes. It will for sure loose the purpose. When i see a need to expand the list of available values i will for sure add more.
 
-<h3><span>Current type values</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>baby_note</span></td><td>10</td></tr><tr><td><span>reference</span></td><td>19</td></tr><tr><td><span>idea</span></td><td>3</td></tr><tr><td><span>knowledge</span></td><td>1</td></tr><tr><td><span>readme</span></td><td>1</td></tr><tr><td><span>project</span></td><td>2</td></tr><tr><td><span>literature_note</span></td><td>4</td></tr><tr><td><span>index</span></td><td>8</td></tr><tr><td><span>blog_post</span></td><td>7</td></tr><tr><td><span>template</span></td><td>2</td></tr></tbody></table></div>
+<h3><span>Current type values</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">10</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>baby_note</span></td><td>10</td></tr><tr><td><span>reference</span></td><td>19</td></tr><tr><td><span>idea</span></td><td>5</td></tr><tr><td><span>knowledge</span></td><td>1</td></tr><tr><td><span>readme</span></td><td>1</td></tr><tr><td><span>project</span></td><td>6</td></tr><tr><td><span>literature_note</span></td><td>4</td></tr><tr><td><span>index</span></td><td>9</td></tr><tr><td><span>blog_post</span></td><td>8</td></tr><tr><td><span>template</span></td><td>2</td></tr></tbody></table></div>
 
 ## Plugins
 
