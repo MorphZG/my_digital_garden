@@ -135,7 +135,7 @@ So, grab a notebook or fire up Obsidian, and start turning your scattered though
 
 ## References
 
-- [[000_Workflow\|Workflow]] - personal idea
+- [[_workflow\|Workflow]] - personal idea
 - [[01_Reference/productivity/How to take smart notes\|How to take smart notes]] - book notes
 - [[01_Reference/productivity/Building a second brain\|Building a second brain]] - book notes
 - [youtube.com/video](https://www.youtube.com/watch?v=ZKNL8Yt8_dE) - "This made me not hate note taking as developer" by Joshua Morony

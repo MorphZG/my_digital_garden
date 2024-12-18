@@ -5,7 +5,6 @@
 
 Templater: Replace templates in the active file `alt + r`
 
-
 # Note title
 
 ## Chapter title

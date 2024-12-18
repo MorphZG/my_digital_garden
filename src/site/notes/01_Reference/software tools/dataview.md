@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/software-tools/dataview/","title":"Dataview plugin","tags":["dataview","obsidian"]}
+{"dg-publish":true,"permalink":"/01-reference/software-tools/dataview/","title":"Dataview plugin","tags":["dataview","obsidian","plugin"]}
 ---
 
 
@@ -47,7 +47,7 @@ There are few different ways you can write a query. Using the **Dataview Query L
 
 >[!example]- Click to show more
 >- DQL code blocks are separated from rest of the content. Opens with three backticks followed by a dataview annotation that will set a type of codeblock *```dataview*. Codeblock is closed with three backticks *```*
->- Inline DQL statement can be inserted into rest of the content with a single backtick followed by a equal sign prefix. Inline code to print the filename: *dataview*, print the tag list *dataview,obsidian*. Prefix can be configured to another token like `dv:` or `~` by changing the dataview settings under "Codeblock settings" > "Inline Query Prefix"
+>- Inline DQL statement can be inserted into rest of the content with a single backtick followed by a equal sign prefix. Inline code to print the filename: *dataview*, print the tag list *dataview,obsidian,plugin*. Prefix can be configured to another token like `dv:` or `~` by changing the dataview settings under "Codeblock settings" > "Inline Query Prefix"
 >- Javascript Query and Javascript API gives you the full power of Javascript allowing you to create arbitrarily complex queries and views. Dataview JS blocks are annotated as a *```dataviewjs* codeblock
 
 ### Dataview query language (DQL)
@@ -75,8 +75,8 @@ DQL query is created inside a codeblock that uses `dataview` as a type. It suppo
 >The following example is an inline statement showing the metadata of *this* object.
 >
 >dataview
->2024-12-17T22:34:39.088+01:00
->dataview,obsidian
+>2024-12-18T02:25:24.879+01:00
+>dataview,obsidian,plugin
 >reference
 >documentation
 

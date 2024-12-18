@@ -14,29 +14,26 @@
 
 View this page in edit mode so you can see the dataview syntax.
 
-- [[000_Workflow\|000_Workflow]]
 - [[00_Fleeting_inbox/OSI model - layers\|OSI model - layers]]
 - [[00_Fleeting_inbox/Unicode\|Unicode]]
 - [[00_Fleeting_inbox/asynchronous javascript\|asynchronous javascript]]
 - [[00_Fleeting_inbox/controllers\|controllers]]
 - [[00_Fleeting_inbox/freelancing\|freelancing]]
+- [[00_Fleeting_inbox/git reference\|git reference]]
+- [[00_Fleeting_inbox/git workflows\|git workflows]]
 - [[00_Fleeting_inbox/http and the web\|http and the web]]
 - [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]
-- [[00_Fleeting_inbox/literature notes structure\|literature notes structure]]
 - [[00_Fleeting_inbox/maps of content\|maps of content]]
 - [[00_Fleeting_inbox/quotes\|quotes]]
 - [[00_Fleeting_inbox/reading books\|reading books]]
 - [[00_Fleeting_inbox/single page application\|single page application]]
 - [[00_Fleeting_inbox/six levels of thinking\|six levels of thinking]]
 - [[00_Fleeting_inbox/tcp-udp\|tcp-udp]]
-- [[00_Fleeting_inbox/git reference\|git reference]]
-- [[00_Fleeting_inbox/git workflows\|git workflows]]
 - [[01_Reference/employment/job interview preparation\|job interview preparation]]
 - [[01_Reference/employment/python developer\|python developer]]
 - [[01_Reference/productivity/Building a second brain\|Building a second brain]]
 - [[01_Reference/productivity/How to take smart notes\|How to take smart notes]]
 - [[01_Reference/productivity/google search\|google search]]
-- [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]]
 - [[01_Reference/software tools/YAML\|YAML]]
 - [[01_Reference/software tools/awesome window manager\|awesome window manager]]
 - [[01_Reference/software tools/curl\|curl]]
@@ -48,6 +45,7 @@ View this page in edit mode so you can see the dataview syntax.
 - [[01_Reference/software tools/stow the dotfiles\|stow the dotfiles]]
 - [[01_Reference/software tools/tar archive\|tar archive]]
 - [[01_Reference/software tools/virtualenvs\|virtualenvs]]
+- [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]]
 - [[02_Ideas_and_projects/ideas/Singularity\|Singularity]]
 - [[02_Ideas_and_projects/ideas/portable system configuration\|portable system configuration]]
 - [[02_Ideas_and_projects/projects/github readme\|github readme]]
@@ -61,6 +59,7 @@ View this page in edit mode so you can see the dataview syntax.
 - [[03_Literature_notes/The Road to React\|The Road to React]]
 - [[03_Literature_notes/react documentation\|react documentation]]
 - [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]
+- [[03_Literature_notes/_literature_notes_structure\|_literature_notes_structure]]
 - [[04_Expressions/Facing the fear of impostor, challenge, growth and million mistakes\|Facing the fear of impostor, challenge, growth and million mistakes]]
 - [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]
 - [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]]
@@ -69,10 +68,7 @@ View this page in edit mode so you can see the dataview syntax.
 - [[04_Expressions/productivity/my note on notetaking\|my note on notetaking]]
 - [[04_Expressions/productivity/perfect note taking system\|perfect note taking system]]
 - [[04_Expressions/software/web authentication\|web authentication]]
-- [[05_Archive/List all values for each property\|List all values for each property]]
-- [[05_Archive/karijera developer\|karijera developer]]
-- [[05_Archive/my mazda/personal vehicle\|personal vehicle]]
-- [[05_Archive/wiki web app\|wiki web app]]
+- [[README\|README]]
 - [[_assets/excalidraw/drawing_17-09-2024.excalidraw\|drawing_17-09-2024.excalidraw]]
 - [[_assets/excalidraw/drawing_17-09-2024_0.excalidraw\|drawing_17-09-2024_0.excalidraw]]
 - [[_assets/excalidraw/drawing_24-09-2024.excalidraw\|drawing_24-09-2024.excalidraw]]
@@ -84,11 +80,11 @@ View this page in edit mode so you can see the dataview syntax.
 - [[_templates/daily_note_template\|daily_note_template]]
 - [[_templates/literature_note_template\|literature_note_template]]
 - [[start here\|start here]]
-- [[README\|README]]
+- [[_workflow\|_workflow]]
 
 { .block-language-dataview}
 
 ## Reference
 
 - [[01_Reference/software tools/dataview\|dataview]] - personal note on dataview
-- [[000_Workflow\|Workflow explanation]]
+- [[_workflow\|Workflow explanation]]

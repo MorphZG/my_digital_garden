@@ -1,38 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/03-literature-notes/react-documentation/","title":"React documentation","tags":["webdev","react","technical"]}
+{"dg-publish":true,"permalink":"/03-literature-notes/react-documentation/","title":"React documentation","tags":["webdev","react","javascript"]}
 ---
 
 
 # React documentation
 
-## Chapter title
+## Describing the UI
 
-## Key concepts
+### Key concepts
 
-- **Main Idea:**
-- **Details:**
+### Questions
 
-## Personal thoughts
+### Personal thought
 
-- **How can this be applied?**
-- **Reflections, critiques, or takeaways:**
+### Examples or code snippets
 
-## Examples or code snippets
+### Summary
 
-```javascript
-// include code examples provided by source material
-console.log("Hello world!")
-```
-
-## Questions
-
-- **What’s unclear or worth exploring further?**
-
-## Summary
-
-- Use your own words an summarise the chapter. If using chatGPT to help with summary, don't just copy and paste. Write manually to improve memory.
-
-## Reference or additional reading
-
-- `[[ ... ]]` - Internal links
-- `[source_material.com/article_name](https://www.source_material.com)` - Outbound link
+### Additional reading

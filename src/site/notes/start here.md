@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing","gardenEntry"]}
+{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Was looking for a way to turn my markdown notes into a static website, collection of knowledge and memories available to anyone. So here it is. Where to go from here you may ask?
 
-You may start with a [[000_Workflow\|workflow rules]], i never enjoy restricting my creative output so these rules will transform and evolve with time. Set workflow should prevent myself from going all over the place. Keep i the vault neat and organised. There is also an additional benefit, with rules in place i can keep my focus on content instead of structure.
+You may start with a [[_workflow\|workflow rules]], i never enjoy restricting my creative output so these rules will transform and evolve with time. Set workflow should prevent myself from going all over the place. Keep i the vault neat and organised. There is also an additional benefit, with rules in place i can keep my focus on content instead of structure.
 
 I am in a process of building my own web from the ground up but for now i use [Digital Garden plugin](https://dg-docs.ole.dev/) I guarantee you there is no easier way to publish your notes. If you decide to try it out be sure to create separate github token with restricted access to rest of your github account. Would be good to also make a copy of your vault since publishing like this need you to add some extra properties to your notes. Will probably write a short guide soon.
 
