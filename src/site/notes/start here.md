@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing"]}
+{"dg-publish":true,"permalink":"/start-here/","title":"Welcome my friend","tags":["personal","writing","index","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -24,3 +24,6 @@ I often think about the power of storytelling. How, with the right words, you ca
 There’s something thrilling about it, like I’m both the creator and the observer. I write to understand, to make sense of the chaos that sometimes spins in my head. And if, by chance, my words resonate with someone else, if they read something I’ve written and feel even a fraction of what I felt while writing it than i did a good job.
 
 But that’s the thing about sharing your thoughts no matter how personal they feel, you never know who might connect with them.
+
+## Read more
+
