@@ -12,6 +12,10 @@
 
 ## Notes index
 
+>[!todo]-
+>instead of list, add a table with columns for title and tags
+>
+
 View this page in edit mode so you can see the dataview syntax.
 
 - [[00_Fleeting_inbox/OSI model - layers\|OSI model - layers]]
@@ -52,11 +56,11 @@ View this page in edit mode so you can see the dataview syntax.
 - [[02_Ideas_and_projects/ideas/portable system configuration\|portable system configuration]]
 - [[02_Ideas_and_projects/projects/github readme\|github readme]]
 - [[02_Ideas_and_projects/projects/personal web\|personal web]]
-- [[02_Ideas_and_projects/projects/work schedule app/controllers\|controllers]]
 - [[02_Ideas_and_projects/projects/work schedule app/directory structure\|directory structure]]
 - [[02_Ideas_and_projects/projects/work schedule app/main readme\|main readme]]
 - [[02_Ideas_and_projects/projects/work schedule app/model view controller\|model view controller]]
 - [[02_Ideas_and_projects/projects/work schedule app/routes\|routes]]
+- [[02_Ideas_and_projects/projects/work schedule app/controllers\|controllers]]
 - [[03_Literature_notes/JavaScript - The Definitive Guide\|JavaScript - The Definitive Guide]]
 - [[03_Literature_notes/The Road to React\|The Road to React]]
 - [[03_Literature_notes/_literature_notes_structure\|_literature_notes_structure]]
@@ -79,8 +83,8 @@ View this page in edit mode so you can see the dataview syntax.
 - [[_dataview_database/notes marked - review\|notes marked - review]]
 - [[_dataview_database/properties - available keys\|properties - available keys]]
 - [[_dataview_database/properties - source values\|properties - source values]]
-- [[_dataview_database/properties - tags values\|properties - tags values]]
 - [[_dataview_database/properties - type values\|properties - type values]]
+- [[_dataview_database/properties - tags values\|properties - tags values]]
 - [[_templates/daily_note_template\|daily_note_template]]
 - [[_templates/literature_note_template\|literature_note_template]]
 - [[_workflow\|_workflow]]
