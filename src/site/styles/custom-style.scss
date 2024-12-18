@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/jetbrains-mono-2');
+                
 body {
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
@@ -11,6 +13,7 @@ body {
     //   color: black;
     //  }
     .content {
-      font-family: 'Courier New', Courier, monospace;
+      font-family: 'JetBrains Mono', sans-serif;
+      font-weight: 300;
     }
 }
