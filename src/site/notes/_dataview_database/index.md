@@ -57,9 +57,9 @@ View this page in edit mode so you can see the dataview syntax.
 - [[02_Ideas_and_projects/projects/work schedule app/routes\|routes]]
 - [[03_Literature_notes/JavaScript - The Definitive Guide\|JavaScript - The Definitive Guide]]
 - [[03_Literature_notes/The Road to React\|The Road to React]]
+- [[03_Literature_notes/_literature_notes_structure\|_literature_notes_structure]]
 - [[03_Literature_notes/react documentation\|react documentation]]
 - [[03_Literature_notes/the science of self-discipline\|the science of self-discipline]]
-- [[03_Literature_notes/_literature_notes_structure\|_literature_notes_structure]]
 - [[04_Expressions/Facing the fear of impostor, challenge, growth and million mistakes\|Facing the fear of impostor, challenge, growth and million mistakes]]
 - [[04_Expressions/life stories/izgubljen u vremenu\|izgubljen u vremenu]]
 - [[04_Expressions/life stories/let me tell you a story\|let me tell you a story]]
@@ -79,8 +79,8 @@ View this page in edit mode so you can see the dataview syntax.
 - [[_dataview_database/properties - type values\|properties - type values]]
 - [[_templates/daily_note_template\|daily_note_template]]
 - [[_templates/literature_note_template\|literature_note_template]]
-- [[start here\|start here]]
 - [[_workflow\|_workflow]]
+- [[start here\|start here]]
 
 { .block-language-dataview}
 
