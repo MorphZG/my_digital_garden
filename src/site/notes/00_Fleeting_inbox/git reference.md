@@ -5,253 +5,188 @@
 
 # Git and GitHub Reference
 
-A comprehensive guide to using Git and GitHub, ideal for quick reference.
-
----
-
 ## Table of Contents
-
-[[00_Fleeting_inbox/git reference#1. Basic Concepts\|#1. Basic Concepts]]
-[[00_Fleeting_inbox/git reference#2. Setup\|#2. Setup]]
-[[00_Fleeting_inbox/git reference#3. Common Git Commands\|#3. Common Git Commands]]
-[[00_Fleeting_inbox/git reference#4. Branching\|#4. Branching]]
-[[00_Fleeting_inbox/git reference#5. Merging and Rebasing\|#5. Merging and Rebasing]]
-[[00_Fleeting_inbox/git reference#6. Working with Remotes\|#6. Working with Remotes]]
-[[00_Fleeting_inbox/git reference#7. Stashing\|#7. Stashing]]
-[[00_Fleeting_inbox/git reference#8. GitHub Basics\|#8. GitHub Basics]]
-[[00_Fleeting_inbox/git reference#9. Pull Requests\|#9. Pull Requests]]
-[[00_Fleeting_inbox/git reference#10. Advanced Git Commands\|#10. Advanced Git Commands]]
-[[00_Fleeting_inbox/git reference#11. Tips and Best Practices\|#11. Tips and Best Practices]]
+- [[00_Fleeting_inbox/git reference#Git Basics\|#Git Basics]]
+- [[00_Fleeting_inbox/git reference#Configuring Git\|#Configuring Git]]
+- [[00_Fleeting_inbox/git reference#Working with Repositories\|#Working with Repositories]]
+- [[00_Fleeting_inbox/git reference#Branching and Merging\|#Branching and Merging]]
+- [[00_Fleeting_inbox/git reference#Staging and Committing\|#Staging and Committing]]
+- [[00_Fleeting_inbox/git reference#Undoing Changes\|#Undoing Changes]]
+- [[00_Fleeting_inbox/git reference#Working with Remotes\|#Working with Remotes]]
+- [[00_Fleeting_inbox/git reference#GitHub Collaboration\|#GitHub Collaboration]]
+- [[00_Fleeting_inbox/git reference#Common Git Commands\|#Common Git Commands]]
+- [[00_Fleeting_inbox/git reference#Tips and Best Practices\|#Tips and Best Practices]]
+- [[00_Fleeting_inbox/git reference#Read more\|#Read more]]
 
 ---
 
-## 1. Basic Concepts
+## Git Basics
+Git is a distributed version control system that tracks changes in your code.
 
-### What is Git?
+### Key Concepts
+- **Repository (Repo):** A project managed by Git.
+- **Commit:** A snapshot of changes.
+- **Branch:** A separate line of development.
+- **Merge:** Combining branches.
+- **Remote:** Repositories stored on another server (e.g., GitHub).
+- **Clone:** A local copy of a remote repository.
 
-Git is a distributed version control system, meaning each developer has a full copy of the project history on their local machine.
+---
 
-### What is GitHub?
+## Configuring Git
 
-GitHub is a web-based platform that hosts Git repositories, allowing for collaboration, pull requests, and additional tools.
+```bash
+# Set global username and email
+$ git config --global user.name "Your Name"
+$ git config --global user.email "you@example.com"
 
-## 2. Setup
+# Check current configuration
+$ git config --list
 
-1. Install Git: Download from [git-scm.com](https://git-scm.com/).
-2. Configure Git:
+# Set default editor
+$ git config --global core.editor "code --wait"
+```
 
-   ```bash
-   git config --global user.name "Your Name"
-   git config --global user.email "your.email@example.com"
-   ```
+---
 
-## 3. Common Git Commands
+## Working with Repositories
 
-- Initialise a Repository:
+```bash
+# Initialize a new repository
+$ git init
 
-  ```bash
-  git init
-  ```
+# Clone an existing repository
+$ git clone <repository-url>
 
-- Clone a Repository:
+# Check repository status
+$ git status
+```
 
-  ```bash
-  git clone <repository-url>
-  ```
+---
 
-- Check Status:
+## Branching and Merging
 
-  ```bash
-  git status
-  ```
+```bash
+# List branches
+$ git branch
 
-- Add Files to Staging:
+# Create a new branch
+$ git branch <branch-name>
 
-  ```bash
-  git add <file>            # Add specific file
-  git add .                 # Add all changes
-  ```
+# Switch to a branch
+$ git checkout <branch-name>
 
-- Commit Changes:
+# Create and switch to a branch
+$ git checkout -b <branch-name>
 
-  ```bash
-  git commit -m "Your commit message"
-  ```
+# Merge a branch into the current branch
+$ git merge <branch-name>
 
-- Show Commit History:
+# Delete a branch
+$ git branch -d <branch-name>
+```
 
-  ```bash
-  git log
-  ```
+---
 
-- Undo Changes:
+## Staging and Committing
 
-  ```bash
-  git checkout -- <file>    # Discard changes in working directory
-  git reset HEAD <file>     # Unstage a file
-  ```
+```bash
+# Stage files for commit
+$ git add <file>
 
-## 4. Branching
+# Stage all files
+$ git add .
 
-- Create a New Branch:
+# Commit changes
+$ git commit -m "Commit message"
 
-  ```bash
-  git branch <branch-name>
-  ```
+# Amend the last commit
+$ git commit --amend
+```
 
-- Switch Branches:
+---
 
-  ```bash
-  git checkout <branch-name>
-  ```
+## Undoing Changes
 
-- Create and Switch to New Branch:
+```bash
+# Unstage files
+$ git reset <file>
 
-  ```bash
-  git checkout -b <branch-name>
-  ```
+# Undo last commit (keep changes unstaged)
+$ git reset --soft HEAD~1
 
-- Delete a Branch:
+# Undo last commit (discard changes)
+$ git reset --hard HEAD~1
 
-  ```bash
-  git branch -d <branch-name>
-  ```
+# Revert a specific commit
+$ git revert <commit-hash>
+```
 
-## 5. Merging and Rebasing
+---
 
-- Merge Branches:
+## Working with Remotes
 
-  ```bash
-  git checkout <target-branch>
-  git merge <source-branch>
-  ```
+```bash
+# Add a remote
+$ git remote add origin <url>
 
-- Rebase Branches:
+# List remotes
+$ git remote -v
 
-  ```bash
-  git checkout <feature-branch>
-  git rebase <main-branch>
-  ```
+# Push changes to remote
+$ git push origin <branch-name>
 
-## 6. Working with Remotes
+# Pull changes from remote
+$ git pull origin <branch-name>
+```
 
-- Add a Remote Repository:
+---
 
-  ```bash
-  git remote add origin <repository-url>
-  ```
+## GitHub Collaboration
 
-- View Remote Repositories:
+```bash
+# Fork a repository (done on GitHub UI)
 
-  ```bash
-  git remote -v
-  ```
+# Create a pull request (done on GitHub UI)
 
-- Push Changes to Remote:
+# Fetch and merge changes from the main branch
+$ git fetch upstream
+$ git merge upstream/main
 
-  ```bash
-  git push origin <branch-name>
-  ```
+# Rebase from main
+$ git rebase main
+```
 
-- Pull Changes from Remote:
+---
 
-  ```bash
-  git pull origin <branch-name>
-  ```
+## Common Git Commands
 
-- Fetch Changes without Merging:
+| Command                            | Description                                   |
+|------------------------------------|-----------------------------------------------|
+| `git log`                          | Show commit history                           |
+| `git diff`                         | Show changes between commits                  |
+| `git stash`                        | Temporarily save changes                      |
+| `git stash pop`                    | Apply stashed changes                         |
+| `git tag`                          | Create a tag for a specific commit            |
+| `git blame <file>`                 | Show who last modified each line              |
+| `git show <commit-hash>`           | Show details of a specific commit             |
+| `git reflog`                       | View the reference log of changes             |
+| `git cherry-pick <commit-hash>`    | Apply a specific commit to the current branch |
 
-  ```bash
-  git fetch origin
-  ```
+---
 
-## 7. Stashing
-
-- Stash Changes:
-
-  ```bash
-  git stash
-  ```
-
-- List Stashes:
-
-  ```bash
-  git stash list
-  ```
-
-- Apply Stash:
-
-  ```bash
-  git stash apply
-  ```
-
-- Apply and Drop Stash:
-
-  ```bash
-  git stash pop
-  ```
-
-## 8. GitHub Basics
-
-- Create Repository:
-  - Go to GitHub, click on "New," and follow the steps.
-
-- Push an Existing Repo to GitHub:
-
-  ```bash
-  git remote add origin <repository-url>
-  git push -u origin main
-  ```
-
-- Forking:
-  - Click "Fork" on the GitHub repo page. This creates a copy of the repository in your account.
-
-## 9. Pull Requests
-
-1. Create a Pull Request:
-   - Go to the GitHub repo page, select your branch, and click "New pull request."
-2. Review and Merge:
-   - Assign reviewers, add comments if necessary, and merge when ready.
-
-## 10. Advanced Git Commands
-
-- Revert a Commit:
-
-  ```bash
-  git revert <commit-hash>
-  ```
-
-- Interactive Rebase:
-
-  ```bash
-  git rebase -i <commit-hash>
-  ```
-
-- Cherry-pick a Commit:
-
-  ```bash
-  git cherry-pick <commit-hash>
-  ```
-
-- View Changes Since Last Commit:
-
-  ```bash
-  git diff
-  ```
-
-## 11. Tips and Best Practices
+## Tips and Best Practices
 
 - Write Clear Commit Messages: Summarise changes and include details when necessary.
 - Avoid Committing Large Files: Use `.gitignore` for files that don’t need to be tracked.
 - Branch Often: Use branches for new features, bug fixes, or experiments.
-- Pull Regularly: Sync with the main branch frequently to avoid merge conflicts.
+- Pull Regularly: Sync with the main branch frequently to avoid merge conflicts. Always pull the latest changes before pushing.
 - Squash Commits Before Merging: Combine small commits to keep history clean.
-
-This guide should cover most basic and intermediate tasks you'll encounter with Git and GitHub. For more complex workflows or help with specific commands, refer to the [Git documentation](https://git-scm.com/doc).
+- Use `.gitignore` to exclude files from being tracked.
 
 ## Read more
 
 - [[00_Fleeting_inbox/git workflows\|git workflows]] - personal note
+- [git-scm.com/documentation](https://git-scm.com/doc) - Official Git documentation
 - [youtube.com/video](https://www.youtube.com/watch?v=S7XpTAnSDL4) - "Git & Github tutorial | Visualised git course for beginner & professional developers in 2024" by JavaScript Mastery
 - [youtube.com/video](https://www.youtube.com/watch?v=8JJ101D3knE) - "Git tutorial for beginners: Learn git in 1 hour" by Programming with Mosh
-- [git-scm.com/documentation](https://git-scm.com/doc) - "Official Git documentation"
