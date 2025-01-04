@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/04-expressions/life-stories/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/","title":"Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes","tags":["webdev","writing","story"]}
+{"dg-publish":true,"permalink":"/04-expressions/life-stories/facing-the-fear-of-impostor-challenge-growth-and-million-mistakes/","title":"Facing Impostor Syndrome: Challenges, Growth, and a Million Mistakes","tags":["webdev","writing","self-help"]}
 ---
 
 

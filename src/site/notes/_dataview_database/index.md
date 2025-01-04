@@ -13,8 +13,9 @@
 
 ## Notes with "draft" status
 
-| File | status |
-| ---- | ------ |
+| File                                                              | status |
+| ----------------------------------------------------------------- | ------ |
+| [[03_Literature_notes/learning typecript\|learning typecript]] | draft  |
 
 { .block-language-dataview}
 

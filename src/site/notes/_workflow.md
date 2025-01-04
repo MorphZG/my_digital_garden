@@ -62,7 +62,7 @@ Create the [[_dataview_database/index\|Dataview index]] to query the list of ava
 
 It would be a mess going to wide with different types of notes. It will for sure loose the purpose. When i see a need to expand the list of available values i will for sure add more.
 
-<h3><span>Current type values</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">0</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"></tbody></table><div class="dataview dataview-error-box"><p class="dataview dataview-error-message">Dataview: No results to show for table query.</p></div></div>
+<h3><span>Current type values</span></h3><div><table class="dataview table-view-table"><thead class="table-view-thead"><tr class="table-view-tr-header"><th class="table-view-th"><span>Type</span><span class="dataview small-text">1</span></th><th class="table-view-th"><span>Count</span></th></tr></thead><tbody class="table-view-tbody"><tr><td><span>literature_note</span></td><td>1</td></tr></tbody></table></div>
 
 ## Plugins
 

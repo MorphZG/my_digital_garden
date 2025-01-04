@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-fleeting-inbox/reading-books/","title":"Reading levels","tags":["book","reading"]}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/reading-books/","title":"Reading levels","tags":["reading","productivity"]}
 ---
 
 

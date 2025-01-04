@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-fleeting-inbox/job-hunting-for-junior-devs/","title":"Job hunting for junior devs","tags":["employment","webdev"]}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/job-hunting-for-junior-devs/","title":"Job hunting for junior devs","tags":["webdev","career"]}
 ---
 
 

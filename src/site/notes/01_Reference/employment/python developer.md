@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-reference/employment/python-developer/","title":"Python crash course by Eric Matthes","tags":["book","employment","python"]}
+{"dg-publish":true,"permalink":"/01-reference/employment/python-developer/","title":"Python crash course by Eric Matthes","tags":["python","career","coding"]}
 ---
 
 

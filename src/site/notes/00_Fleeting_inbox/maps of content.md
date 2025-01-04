@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-fleeting-inbox/maps-of-content/","title":"Maps of Content","tags":["moc","dataview","productivity"]}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/maps-of-content/","title":"Maps of content","tags":["dataview","productivity","notes"]}
 ---
 
 
-# Maps of Content
+# Maps of content
 
 ## Introduction
 

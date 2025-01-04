@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/00-fleeting-inbox/git-reference/","title":"Git and GitHub Reference","tags":["devops","coding","software"]}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/git-reference/","title":"Git and GitHub Reference","tags":["devops","coding","git"]}
 ---
 
 
 # Git and GitHub Reference
 
 ## Table of Contents
+
 - [[00_Fleeting_inbox/git reference#Git Basics\|#Git Basics]]
 - [[00_Fleeting_inbox/git reference#Configuring Git\|#Configuring Git]]
 - [[00_Fleeting_inbox/git reference#Working with Repositories\|#Working with Repositories]]
@@ -21,9 +22,11 @@
 ---
 
 ## Git Basics
+
 Git is a distributed version control system that tracks changes in your code.
 
 ### Key Concepts
+
 - **Repository (Repo):** A project managed by Git.
 - **Commit:** A snapshot of changes.
 - **Branch:** A separate line of development.

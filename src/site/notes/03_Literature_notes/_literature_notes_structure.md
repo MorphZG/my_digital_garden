@@ -14,17 +14,34 @@
 
 ### Technical literature, proposed structure
 
+Every time new file is created under the `03_Literature_notes` directory, `Templater` plugin will use the following template to generate default file structure: [[_templates/literature_note_template\|literature_note_template]]
+
 ```md
 ---
-date:
-source:
-tags:
-title:
-type:
-URL:
+author: 
+date: 
+source: 
+status: 
+tags: []
+title: Book title
+type: literature_note
+URL: 
 ---
 
 # Book title
+
+> [!abstract]- book metadata
+Title:
+Author:
+Pub date:
+Publisher:
+ISBN:
+Language:
+Pages:
+Weight:
+Height:
+Width:
+Cover:
 
 ## First Chapter
 ### Key concepts

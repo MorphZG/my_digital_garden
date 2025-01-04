@@ -6,15 +6,17 @@
 # Javascript - The definitive guide
 
 >[!abstract]- book metadata
-ISBN: 9781491952023
-Publisher: O'Reilly Media
+Title: Javascript - The definitive guide
+Author: David Flanagan
 Pub date: 29 May 2020
+Publisher: O'Reilly Media
+ISBN: 9781491952023
 Language: English
-Pages: 704
-Weight: 1202g
-Height: 178mm
-Width: 233mm
-![](https://blackwells.co.uk/jacket/l/9781491952023.webp)
+Pages: 687
+Weight: 1202 g
+Height: 178 mm
+Width: 233 mm
+Cover: ![](https://blackwells.co.uk/jacket/l/9781491952023.webp)
 
 ## Summary
 
@@ -112,6 +114,6 @@ ES6 adds a new special-purpose type, known as **Symbol**, that enables the defin
 
 An object (member of a type object) is a collection of properties where each property has a name and a value (either a primitive value or another object). Special object, the **global** object is covered in 3.7, but more general and more detailed coverage of objects is in chapter 6.
 
-###### CONTINUE HERE
+###### CONTINUE HERE.
 
 In addition to basic objects and arrays, javascript defines...

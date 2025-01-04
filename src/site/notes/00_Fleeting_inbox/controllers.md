@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-fleeting-inbox/controllers/","title":"Controllers"}
+{"dg-publish":true,"permalink":"/00-fleeting-inbox/controllers/","title":"Controllers","tags":["webdev","coding","database"]}
 ---
 
 

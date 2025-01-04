@@ -13,8 +13,9 @@ Notes still in a form of a placeholder or not not really useful. Provides zero v
 
 >[!tip]- click to show more
 >
->  | File | status |
-> | ---- | ------ |
+>  | File                                                              | status |
+> | ----------------------------------------------------------------- | ------ |
+> | [[03_Literature_notes/learning typecript\|learning typecript]] | draft  |
 > 
 { .block-language-dataview}
 
