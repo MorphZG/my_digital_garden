@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/github-readme/","title":"My webdev summary","tags":["github","readme"]}
+{"dg-publish":true,"permalink":"/02-ideas-and-projects/projects/github-readme/","title":"👋 Why am i here?","tags":["github","readme"]}
 ---
 
 
