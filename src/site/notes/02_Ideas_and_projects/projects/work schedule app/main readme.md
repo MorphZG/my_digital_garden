@@ -11,8 +11,10 @@
 - randomise the schedule
 - input preferences if some employee have special needs like free weekend or different working hours for particular day
 - track a very simple statistic about working hours
+- track sales for each employee
 - option for each employee to display a graph to see how many Mondays he worked in a month, how many Saturdays, how many Fridays.... display a graph for each day of the week in a set time period, how many working hours he had on each day
 - option to build automatic schedule with balanced shifts so each employee have a fair number of working weekends
+
 
 ## Project plan
 
