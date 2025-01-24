@@ -19,6 +19,7 @@
 
 ### Projects
 
+
    - **Functionality**: Display all your web development projects. Each project should have its own page with details like tech stack, description, and a link to GitHub or live demo.
    - **Implementation**:
 	 - Use cards or grid layout in React to list your projects. Each project card can link to a detailed page.
@@ -28,6 +29,7 @@
    **Example Tech Stack**: React.js, MongoDB (or JSON for simpler approach), TailwindCSS
 
 ### Digital garden
+
 
    - **Functionality**: The digital garden will function like a personal knowledge base where you can link notes together (think of it like a mini-wiki). You’ll want a system to create, edit, and interlink notes. Some of important features are backlinks, wikilinks, popover previews, callouts, syntax highlighting, table of contents, tag listings...
    - **Implementation**:
