@@ -21,8 +21,8 @@ Stage of maturity or completeness of a note. Available values: `draft`, `useful`
 > | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                        | draft  |
 > | [[00_Fleeting_inbox/quotes\|quotes]]                                                                  | draft  |
 > | [[00_Fleeting_inbox/reading books\|reading books]]                                                    | draft  |
-> | [[01_Reference/job interview preparation\|job interview preparation]]                                 | draft  |
 > | [[01_Reference/google search\|google search]]                                                         | draft  |
+> | [[01_Reference/job interview preparation\|job interview preparation]]                                 | draft  |
 > | [[01_Reference/stow the dotfiles\|stow the dotfiles]]                                                 | draft  |
 > | [[01_Reference/tar archive\|tar archive]]                                                             | draft  |
 > | [[01_Reference/ux-ui design, figma\|ux-ui design, figma]]                                             | draft  |
