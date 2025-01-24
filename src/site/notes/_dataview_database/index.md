@@ -21,12 +21,12 @@
 | [[00_Fleeting_inbox/job hunting for junior devs\|job hunting for junior devs]]                        | draft  |
 | [[00_Fleeting_inbox/quotes\|quotes]]                                                                  | draft  |
 | [[00_Fleeting_inbox/reading books\|reading books]]                                                    | draft  |
-| [[01_Reference/google search\|google search]]                                                         | draft  |
 | [[01_Reference/job interview preparation\|job interview preparation]]                                 | draft  |
+| [[01_Reference/google search\|google search]]                                                         | draft  |
 | [[01_Reference/stow the dotfiles\|stow the dotfiles]]                                                 | draft  |
 | [[01_Reference/tar archive\|tar archive]]                                                             | draft  |
-| [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]] | draft  |
 | [[01_Reference/ux-ui design, figma\|ux-ui design, figma]]                                             | draft  |
+| [[01_Reference/zakon o policijskim poslovima i ovlastima\|zakon o policijskim poslovima i ovlastima]] | draft  |
 | [[02_Ideas_and_projects/ideas/Singularity\|Singularity]]                                              | draft  |
 | [[02_Ideas_and_projects/ideas/portable system configuration\|portable system configuration]]          | draft  |
 | [[02_Ideas_and_projects/projects/digital garden\|digital garden]]                                     | draft  |
